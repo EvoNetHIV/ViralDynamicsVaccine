@@ -508,7 +508,7 @@ void CreateCD4Table()
    CD4_lookup[2][2]=2.12;
    CD4_lookup[2][3]=4.18;
    //CD4_lookup[2][4]=0.72;
-   CD4_lookup[1][4]=1.0;	//11.71 vs 11.99
+   CD4_lookup[2][4]=1.0;	//11.71 vs 11.99
  //3.5 < logSPVL <= 4
    CD4_lookup[3][1]=3.94;
    CD4_lookup[3][2]=3.08;
